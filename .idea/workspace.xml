@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97166656-3c01-4fbb-84a3-32ea8caa6774" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_yield.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl7160/meinv.py" afterPath="$PROJECT_DIR$/crawl7160/meinv.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/download_img/downloader.py" afterPath="$PROJECT_DIR$/download_img/downloader.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img_7160/outputer.py" afterPath="$PROJECT_DIR$/img_7160/outputer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sp.iml" afterPath="$PROJECT_DIR$/.idea/sp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img_7160/spider_main.py" afterPath="$PROJECT_DIR$/img_7160/spider_main.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/spider_quote/spider_quote/spiders/first.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -44,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/spider_quote/spider_quote/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
-              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
               <folding>
                 <marker date="1537604591382" expanded="true" signature="683:749" ph="insert into ganji" />
               </folding>
@@ -177,24 +175,6 @@
               <item name="sp" type="b2602c69:ProjectViewProjectNode" />
               <item name="sp" type="462c0819:PsiDirectoryNode" />
               <item name="img_7160" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp" type="462c0819:PsiDirectoryNode" />
-              <item name="spider_quote" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp" type="462c0819:PsiDirectoryNode" />
-              <item name="spider_quote" type="462c0819:PsiDirectoryNode" />
-              <item name="spider_quote" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp" type="462c0819:PsiDirectoryNode" />
-              <item name="spider_quote" type="462c0819:PsiDirectoryNode" />
-              <item name="spider_quote" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -347,7 +327,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -356,7 +335,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4936034" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49434572" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49434572" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5056543" order="-1" side_tool="true" content_ui="tabs" />
@@ -675,7 +654,7 @@
     <entry file="file://$PROJECT_DIR$/spider_quote/spider_quote/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
           <folding>
             <marker date="1537604591382" expanded="true" signature="683:749" ph="insert into ganji" />
           </folding>
@@ -685,7 +664,7 @@
     <entry file="file://$PROJECT_DIR$/spider_quote/spider_quote/spiders/first.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>

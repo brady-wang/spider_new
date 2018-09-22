@@ -12,7 +12,7 @@ class SpiderMain(object):
 
     def crawl(self, root_url):
         count = 1
-        max_count = 100000000
+        max_count = 10000000000
         self.url_manager.add_new_url(root_url)
         while self.url_manager.has_new_url():
             try:
