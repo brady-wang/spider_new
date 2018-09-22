@@ -23,7 +23,7 @@ total = res[0]
 page_size = 10000
 total_page = math.ceil(total / page_size)
 
-for page in range(1,total_page+1):
+for page in range(20,total_page+1):
     path = 'd:\\crawl\\imgs\\img'+str(page)
     if not os.path.exists(path):
         os.makedirs(path)
@@ -34,6 +34,7 @@ for page in range(1,total_page+1):
     res = cur.fetchall()  # 返回数据,返回的是tuple类型
     if len(res) > 0:
         for item in res:
+            print("page:",page,"id:",item[0])
             print(item[2])
             file_name = path +"\\"+validateTitle(item[1])+".jpg"
             try:

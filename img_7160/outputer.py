@@ -20,9 +20,6 @@ class Outputer(object):
         import time
         # 格式化成2016-03-20 11:45:39形式
         now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-
-
-
         # 插入数据
         sql = "insert  into imgs_7160(title,url,create_time) values('{}','{}','{}')".format(data['title'],data['url'],now)
         #print(sql)
